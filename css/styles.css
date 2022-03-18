@@ -9,16 +9,20 @@
 }
 
 .jumbotron {
-  text-indent: 1%;
   padding-top: 3%;
   height: 250px;
   margin-bottom: 0%;
+  text-indent: -20%;
 }
 
 .me {
   height: 250px;
   float:right;
   padding-top:0%;
+}
+
+.jumbotron a {
+  line-height: 5px;
 }
 
 .jumbotron a:link {
@@ -35,7 +39,8 @@ ul.no-bullets {
   height: 100%;
   width: 180px;
   position: fixed;
-  top:250px;
+  z-index: 1;
+  top:250px auto;
   background-color: black;
   margin-top: 0%;
   margin-left: 0%;
@@ -77,4 +82,12 @@ ul.no-bullets {
 
 .languages {
   color:red;
+}
+
+.main h5 {
+  text-align: center;
+}
+
+.container {
+  text-align: left;
 }
