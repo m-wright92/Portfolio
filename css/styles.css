@@ -35,12 +35,13 @@ ul.no-bullets {
   height: 100%;
   width: 180px;
   position: fixed;
+  top:250px;
   background-color: black;
   margin-top: 0%;
   margin-left: 0%;
   padding-left: 0%;
   left: 0;
-  text-align:center
+  text-align:center;
 }
 
 .sidebar a {
@@ -54,6 +55,26 @@ ul.no-bullets {
   color:rgb(32, 124, 4)
 }
 
-.sidebar h3 {
+.sidebar h2 {
   color:rgb(84, 133, 133);
+}
+
+.main {
+  margin-left: 180px;
+  padding: 20px;
+  border:5px solid aquamarine;
+  border-right: 0px;
+  border-bottom: 0px;
+}
+
+.main p {
+  text-indent: 10px;
+}
+
+.main h4 {
+  font-size: medium;
+}
+
+.languages {
+  color:red;
 }
