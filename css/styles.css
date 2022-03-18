@@ -1,0 +1,14 @@
+.jumbotron h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+}
+
+.jumbotron p {
+  font-family: 'Times New Roman', Times, serif;
+  color: bisque
+}
+
+.jumbotron {
+  text-indent: 1%;
+  padding-top: 3%;
+}
