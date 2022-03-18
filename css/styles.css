@@ -12,6 +12,7 @@
   text-indent: 1%;
   padding-top: 3%;
   height: 250px;
+  margin-bottom: 0%;
 }
 
 .me {
@@ -22,4 +23,37 @@
 
 .jumbotron a:link {
   text-decoration:underline;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0%;
+  padding: 1%
+}
+
+.sidebar {
+  height: 100%;
+  width: 180px;
+  position: fixed;
+  background-color: black;
+  margin-top: 0%;
+  margin-left: 0%;
+  padding-left: 0%;
+  left: 0;
+  text-align:center
+}
+
+.sidebar a {
+  padding: 16px;
+  font-size: 15px;
+  line-height: 30px;
+  color: blueviolet;
+}
+
+.sidebar a:hover {
+  color:rgb(32, 124, 4)
+}
+
+.sidebar h3 {
+  color:rgb(84, 133, 133);
 }
