@@ -21,7 +21,7 @@
 
  ## Known Bugs
 
- * The sidebar scrolls with the screen and does not stay anchored to the top where it should
+ 
 
  ## License
 

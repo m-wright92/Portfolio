@@ -12,7 +12,7 @@
   padding-top: 3%;
   height: 250px;
   margin-bottom: 0%;
-  text-indent: -20%;
+  text-indent: -25%;
 }
 
 .me {
@@ -38,7 +38,7 @@ ul.no-bullets {
 .sidebar {
   height: 100%;
   width: 180px;
-  position: fixed;
+  position: absolute;
   z-index: 1;
   top:250px auto;
   background-color: black;
