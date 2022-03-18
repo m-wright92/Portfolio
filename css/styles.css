@@ -98,13 +98,13 @@ ul.no-bullets {
 }
 
 .container h1 {
-  animation-duration: 3s;
+  animation-duration: 5s;
   animation-name: slidein;
 }
 
 @keyframes slidein {
   from {
-    margin-left: 100%;
+    margin-left: 115%;
     width: 300%;
   }
 
@@ -114,9 +114,9 @@ ul.no-bullets {
   }
 
   40% {
-    font-size: 300%;
-    margin-left: 25%;
-    width: 150%;
+    font-size: 400%;
+    margin-left: 20%;
+    width: 120%;
   }
 }
 
@@ -139,4 +139,8 @@ ul.no-bullets {
 
 .main2 h5 {
   text-align: center;
+}
+
+blockquote {
+  margin-left: 15%;
 }
