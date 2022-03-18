@@ -19,3 +19,7 @@
   float:right;
   padding-top:0%;
 }
+
+.jumbotron a:link {
+  text-decoration:underline;
+}
