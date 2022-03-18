@@ -11,4 +11,11 @@
 .jumbotron {
   text-indent: 1%;
   padding-top: 3%;
+  height: 250px;
+}
+
+.me {
+  height: 250px;
+  float:right;
+  padding-top:0%;
 }
