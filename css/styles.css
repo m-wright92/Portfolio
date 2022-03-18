@@ -73,6 +73,7 @@ ul.no-bullets {
   background-color: rgba(233, 139, 17, 0.144);
   height: 100%;
   position: absolute;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 .main p {
@@ -94,6 +95,29 @@ ul.no-bullets {
 
 .container {
   text-align: left;
+}
+
+.container h1 {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  40% {
+    font-size: 300%;
+    margin-left: 25%;
+    width: 150%;
+  }
 }
 
 .main2 {
