@@ -11,7 +11,11 @@
  
  ## Description
 
- This webpage will be a an evolving portfolio of my journey through the process of learning how to code. It will invlude links to highlighted projects and provide a bit of information about myself.
+ This webpage will be an evolving portfolio of my journey through the process of learning how to code. It will include links to highlighted projects and provide a bit of information about myself.
+
+ ## Preview Instructions
+
+ To preview the page just visit this URL: https://m-wright92.github.io/Portfolio/index.html
 
  ## Setup Instructions
 
